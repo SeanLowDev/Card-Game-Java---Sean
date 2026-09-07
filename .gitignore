@@ -1,0 +1,16 @@
+build/
+.gradle
+bin/
+
+*.class
+
+
+# BlueJ files
+*.ctxt
+.DS_Store
+out/
+dist/
+
+# IDE
+.idea/
+.vscode/
